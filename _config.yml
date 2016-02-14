@@ -2,6 +2,7 @@ name: Smartalock1
 favicon: null
 layout_spectrum: 0.5567015684209764
 typography_spectrum: 0.35548055614344776
+title: Dynamic Lockers
 cta:
   domain: null
   bucket: null
