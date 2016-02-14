@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Smartalock1]]></title>
+        <description><![CDATA[Smartalock1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 14 Feb 2016 05:34:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Smartalock is the intelligent office storage locker solution for the modern workplace.
+</p>]]></description>
+            <link>undefined947c53fa-99a7-4afb-87d0-d4e5ff01fdc9/index.html</link>
+            <guid isPermaLink="false">947c53fa-99a7-4afb-87d0-d4e5ff01fdc9</guid>
+            <pubDate>Sun, 14 Feb 2016 05:33:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
